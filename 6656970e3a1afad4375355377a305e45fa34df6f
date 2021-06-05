@@ -16,6 +16,24 @@
       "message": "Abandon, plox",
       "revId": "6656970e3a1afad4375355377a305e45fa34df6f",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ee44283d_aef5a64c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 343
+      },
+      "writtenOn": "2021-06-05T09:47:10Z",
+      "side": 1,
+      "message": "whatever you want.",
+      "parentUuid": "9576988d_4a8f66ec",
+      "revId": "6656970e3a1afad4375355377a305e45fa34df6f",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
